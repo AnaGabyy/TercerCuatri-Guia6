@@ -6,6 +6,6 @@ public class Curso {
     }
 
     public void inscribirse(Persona persona){
-        System.out.println("Está inscrito");
+        System.out.println(persona.getNombre() +" Está inscrito");
     }
 }
