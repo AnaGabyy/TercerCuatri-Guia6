@@ -1,8 +1,8 @@
-package primerEjercicioTest;
+package uno.unoTest;
 
-import primerEjercicio.Gato;
-import primerEjercicio.Perro;
-import primerEjercicio.Veterinario;
+import uno.Gato;
+import uno.Perro;
+import uno.Veterinario;
 
 public class Main {
 
@@ -20,8 +20,6 @@ public class Main {
         Veterinario veterinario = new Veterinario();
 
         veterinario.tratarAnimal(perro,gato);
-
-
     }
 
 }

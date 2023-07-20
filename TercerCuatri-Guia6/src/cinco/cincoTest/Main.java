@@ -1,8 +1,8 @@
-package quintoEjercicioTest;
+package cinco.cincoTest;
 
-import quintoEjercicio.Curso;
-import quintoEjercicio.Estudiante;
-import quintoEjercicio.Profesor;
+import cinco.Curso;
+import cinco.Estudiante;
+import cinco.Profesor;
 
 public class Main {
 

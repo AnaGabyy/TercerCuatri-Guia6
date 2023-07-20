@@ -1,4 +1,4 @@
-package quintoEjercicio;
+package cinco;
 
 public class Profesor extends Persona{
 

@@ -1,8 +1,8 @@
-package primerEjercicio;
+package uno;
 
-public class Gato extends Animal{
+public class Perro extends Animal{
 
-    public Gato(String nombre, String sonido) {
+    public Perro(String nombre, String sonido) {
         super(nombre, sonido);
     }
 

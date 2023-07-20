@@ -1,7 +1,6 @@
-package cuartoEjercicioTest;
+package cuatro.cuatroTest;
 
 public class Main {
-
     public static void main(String[] args) {
 
         /*Crea una interfaz llamada Estrategia con un método llamado ejecutar() y dos subinterfaces llamadas

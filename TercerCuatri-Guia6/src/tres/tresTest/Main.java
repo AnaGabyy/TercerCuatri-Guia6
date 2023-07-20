@@ -1,7 +1,6 @@
-package tercerEjercicioTest;
+package tres.tresTest;
 
 public class Main {
-
     public static void main(String[] args) {
 
         /*Crea una clase llamada Cajero y dos subclases llamadas CajeroDeBanco y CajeroAutomatico.

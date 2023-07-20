@@ -1,4 +1,4 @@
-package primerEjercicio;
+package uno;
 
 public class Veterinario {
 
